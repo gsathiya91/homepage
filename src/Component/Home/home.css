@@ -1,0 +1,31 @@
+.footer{
+    background-color:#3c3838;
+    color:white;
+    text-align:center;
+    height: 150px;
+  }
+  .last{
+    padding: 70px;
+  }
+  .count{
+    background: black;
+    border: 3px solid black;
+    border-radius: 100%;
+    color: white;
+    font-weight: 700;
+  }
+  .shopin{
+    font-size: 50px;
+    padding-top:100px;
+    font-weight:700;
+  }
+  .shoppin{
+    font-size:16px;
+  }
+  .title{
+    background-color:#3c3838;
+    color:white;
+    text-align:center;
+    height: 300px;
+  }
+  
